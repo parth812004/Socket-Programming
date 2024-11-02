@@ -1,2 +1,2 @@
 # Socket-Programming
-Socket programming(Both TCP and UDP Protocols)
+Socket programming using Python(Both TCP and UDP Protocols)
